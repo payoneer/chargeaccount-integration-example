@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "jwt-decode": "^3.1.2",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module",
+  "name": "partnersservices-payoneer",
+  "description": "This is a javascript library to interact with the Payoneer ChargeAccount API. \r This library covers acquiring tokens (application and consent), GetAccountBalance, Debit, Commit, and GetChargeStatus",
+  "version": "1.0.0",
+  "main": "charge-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
